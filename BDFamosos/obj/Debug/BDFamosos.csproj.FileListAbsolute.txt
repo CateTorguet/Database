@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\bin\Debug\bd_famosos.mdf
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\bin\Debug\bd_famosos_log.ldf
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\bin\Debug\BDFamosos.exe.config
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\bin\Debug\BDFamosos.exe
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\bin\Debug\BDFamosos.pdb
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\obj\Debug\BDFamosos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\obj\Debug\BDFamosos.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\obj\Debug\BDFamosos.Properties.Resources.resources
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\obj\Debug\BDFamosos.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\obj\Debug\BDFamosos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\obj\Debug\BDFamosos.exe
+C:\Users\HP\Desktop\P.Visual\P7\BDFamosos\obj\Debug\BDFamosos.pdb
